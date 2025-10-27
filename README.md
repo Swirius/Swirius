@@ -5,7 +5,7 @@
 <!-- Animated Header -->
 <h1 align="center">👋 Hello there! I'm <span style="color:#007bff;">Agustín Swirido</span> — aka <b>Swirius</b> 💻</h1>
 
-<h3 align="center">🚀 Java Developer | Back-End | Computer Science Student</h3>
+<h3 align="center">🚀 Full Stack Java Developer | Back-End Focus | Computer Science Student</h3>
 
 I'm passionate about technology and software development, currently pursuing a **Bachelor’s Degree in Computer Science (Universidad Siglo 21)**.  
 I specialize in the **Java & Spring Boot ecosystem**, focusing on clean architecture, scalable design, and maintainable code.  
