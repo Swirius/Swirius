@@ -1,3 +1,7 @@
+<p align="right">
+  🇪🇸 <a href="./README.es.md">Leer en Español</a>
+</p>
+
 <!-- Animated Header -->
 <h1 align="center">👋 Hello there! I'm <span style="color:#007bff;">Agustín Swirido</span> — aka <b>Swirius</b> 💻</h1>
 
