@@ -1,26 +1,25 @@
+<!-- Animated Header -->
+<h1 align="center">👋 Hello there! I'm <span style="color:#007bff;">Agustín Swirido</span> — aka <b>Swirius</b> 💻</h1>
 
-<!-- Encabezado animado -->
-<h1 align="center">👋 ¡Hola! Soy <span style="color:#007bff;">Agustín Swirido</span> — alias <b>Swirius</b> 💻</h1>
+<h3 align="center">🚀 Java Developer | Back-End | Computer Science Student</h3>
 
-<h3 align="center">🚀 Desarrollador Java | Back-End | Estudiante de Informática</h3>
-
-Soy un apasionado de la tecnología y la programación, actualmente formándome en **Licenciatura en Informática (Universidad Siglo 21)**.  
-Me especializo en el **ecosistema Java y Spring Boot**, aplicando buenas prácticas, arquitectura limpia y un enfoque orientado a resultados.  
-Valoro el código bien estructurado, el aprendizaje constante y los proyectos con propósito real.
-
----
-
-### 💼 Experiencia Relevante
-
-- **Representante de Ventas – Academia MegaService** (2024–2025)  
-  Gestión de ventas y atención al cliente, análisis de métricas y mejora continua en procesos comerciales.
-
-- **Asistente Administrativo – Agencia Inmobiliaria** (2020–2024)  
-  Coordinación de tareas administrativas, soporte operativo y organización de bases de datos de clientes.
+I'm passionate about technology and software development, currently pursuing a **Bachelor’s Degree in Computer Science (Universidad Siglo 21)**.  
+I specialize in the **Java & Spring Boot ecosystem**, focusing on clean architecture, scalable design, and maintainable code.  
+I value structured logic, continuous learning, and building meaningful, purposeful projects.
 
 ---
 
-### 🧩 Tecnologías y Herramientas
+### 💼 Professional Experience
+
+- **Sales Representative – Academia MegaService** (2024–2025)  
+  Managed sales operations and customer relations, analyzed performance metrics, and optimized business processes.
+
+- **Administrative Assistant – Real Estate Agency** (2020–2024)  
+  Coordinated administrative tasks, provided operational support, and maintained organized client databases.
+
+---
+
+### 🧩 Technologies & Tools
 
 #### 💻 Back-End
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -37,7 +36,7 @@ Valoro el código bien estructurado, el aprendizaje constante y los proyectos co
 ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
 ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005F0F.svg?style=for-the-badge&logo=thymeleaf&logoColor=white)
 
-#### ⚙️ Herramientas
+#### ⚙️ Tools
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-%232C2255.svg?style=for-the-badge&logo=eclipse&logoColor=white)
@@ -46,7 +45,7 @@ Valoro el código bien estructurado, el aprendizaje constante y los proyectos co
 ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-%23C71A36.svg?style=for-the-badge&logo=apachemaven&logoColor=white)
 
-#### 📚 Metodologías
+#### 📚 Methodologies
 ![Agile](https://img.shields.io/badge/Agile-%2300ADD8.svg?style=for-the-badge&logo=agile&logoColor=white)
 ![Scrum](https://img.shields.io/badge/Scrum-%230078D7.svg?style=for-the-badge&logo=scrumalliance&logoColor=white)
 ![Clean Code](https://img.shields.io/badge/Clean_Code-%23222222.svg?style=for-the-badge&logo=readthedocs&logoColor=white)
@@ -54,20 +53,20 @@ Valoro el código bien estructurado, el aprendizaje constante y los proyectos co
 
 ---
 
-### 🧱 Proyectos Destacados
+### 🧱 Featured Projects
 
 🔹 **[Mercado Swirius](https://github.com/Swirius/mercado-swirius)**  
-E-commerce completo desarrollado con **Spring Boot + Thymeleaf + MySQL**, con autenticación, roles, carrito de compras y gestión de productos.
+A full-featured e-commerce built with **Spring Boot + Thymeleaf + MySQL**, including authentication, role management, shopping cart, and product administration.
 
 🔹 **[SkillUp](https://github.com/Swirius/SkillUp-)**  
-Plataforma educativa modular con arquitectura REST, validaciones robustas y buenas prácticas de seguridad.
+A modular learning platform with a RESTful architecture, solid validation system, and secure best practices.
 
-🔹 **[Plataforma Salud Mental](https://github.com/Swirius/Plataforma-Salud-Mental)**  
-Proyecto integral con **Spring Boot + React**, backend seguro, APIs de mensajería y sistema de citas médicas.
+🔹 **[Mental Health Platform](https://github.com/Swirius/Plataforma-Salud-Mental)**  
+Full-stack project built with **Spring Boot + React**, featuring a secure backend, messaging APIs, and an appointment management system.
 
 ---
 
-### 📊 Estadísticas de GitHub
+### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Swirius&show_icons=true&theme=github_dark&hide_border=true" height="165">
@@ -76,20 +75,21 @@ Proyecto integral con **Spring Boot + React**, backend seguro, APIs de mensajer�
 
 ---
 
-### 🧭 Enfoque Profesional
+### 🧭 Professional Mindset
 
-Me caracterizo por:
-- Mantener una **mentalidad analítica y ordenada**.  
-- Valorar la **consistencia del código y la claridad en la arquitectura**.  
-- Apostar a la **mejora continua y el aprendizaje constante**.
+I stand out for:
+- Maintaining an **analytical and structured mindset**.  
+- Prioritizing **code consistency and clear architecture**.  
+- Pursuing **continuous improvement and lifelong learning**.
 
 ---
 
-### 📬 Contacto
+### 📬 Contact
 
 - 🌐 [Portfolio](https://swirius.github.io/Portfolio/)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/swiridoagustin/)  
 - 📧 [swiridoagustin123@gmail.com](mailto:swiridoagustin123@gmail.com)  
 - 📞 +54 9 11 5514-2785  
-> *“El código bien estructurado no solo resuelve problemas: los previene.”*  
-> — Swirius ⚙️
+
+> *“Well-structured code doesn’t just solve problems — it prevents them.”*  
+> — **Swirius ⚙️**
