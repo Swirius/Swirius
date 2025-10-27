@@ -15,7 +15,7 @@ Valoro el código bien estructurado, el aprendizaje constante y los proyectos co
 - **Representante de Ventas – Academia MegaService** (2024–2025)  
   Gestión de ventas y atención al cliente, análisis de métricas y mejora continua en procesos comerciales.
 
-- **Asistente Administrativo – Agencia Inmobiliaria** (2020–2022)  
+- **Asistente Administrativo – Agencia Inmobiliaria** (2020–2024)  
   Coordinación de tareas administrativas, soporte operativo y organización de bases de datos de clientes.
 
 ---
