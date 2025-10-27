@@ -5,7 +5,7 @@
 <!-- Encabezado animado -->
 <h1 align="center">👋 ¡Hola! Soy <span style="color:#007bff;">Agustín Swirido</span> — alias <b>Swirius</b> 💻</h1>
 
-<h3 align="center">🚀 Desarrollador Java | Back-End | Estudiante de Informática</h3>
+<h3 align="center">🚀 Desarrollador Java Full Stack | Especializado en Back-End | Estudiante de Informática</h3>
 
 Soy un apasionado de la tecnología y la programación, actualmente formándome en **Licenciatura en Informática (Universidad Siglo 21)**.  
 Me especializo en el **ecosistema Java y Spring Boot**, aplicando buenas prácticas, arquitectura limpia y un enfoque orientado a resultados.  
