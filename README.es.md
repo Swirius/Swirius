@@ -1,3 +1,7 @@
+<p align="right">
+  🇺🇸 <a href="./README.md">Read in English</a>
+</p>
+
 <!-- Encabezado animado -->
 <h1 align="center">👋 ¡Hola! Soy <span style="color:#007bff;">Agustín Swirido</span> — alias <b>Swirius</b> 💻</h1>
 
